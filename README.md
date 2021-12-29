@@ -5,4 +5,8 @@
 
 ### 步驟2 打開CommandLine，移動到代碼所在的檔案夾，運行bash run.sh即可
 
+出現一些Request Failed
+
+---
+
 說明: spn.sh 來自[此處](https://github.com/overcast07/wayback-machine-spn-scripts/blob/main/spn.sh)
