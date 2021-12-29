@@ -1,5 +1,5 @@
 # Save_standnews
-如何自動使用Internet Archive備份立場新聞
+如何自動使用Internet Archive備份立場新聞，此方法不會在你的電腦上增加任何檔案（只有一些log），
 
 ### 步驟1 下載這個倉庫的所有代碼（右上角綠色按鈕），解壓縮
 
